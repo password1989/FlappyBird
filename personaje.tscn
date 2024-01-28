@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://b84podp3r23bt"]
+
+[ext_resource type="Script" path="res://personaje.gd" id="1_t0mim"]
+[ext_resource type="Texture2D" uid="uid://b5dqefuonjfps" path="res://assets/img/63.png" id="1_uo262"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_sn6iq"]
+radius = 26.3059
+
+[node name="Personaje" type="RigidBody2D"]
+script = ExtResource("1_t0mim")
+
+[node name="Pajaro" type="Sprite2D" parent="."]
+position = Vector2(469, 243)
+texture = ExtResource("1_uo262")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(469, 243)
+shape = SubResource("CircleShape2D_sn6iq")

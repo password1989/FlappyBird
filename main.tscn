@@ -1,0 +1,23 @@
+[gd_scene load_steps=5 format=3 uid="uid://hjt2yu0wmrm6"]
+
+[ext_resource type="Texture2D" uid="uid://c20n4onc7dqo2" path="res://assets/img/costume1.png" id="1_2ybvc"]
+[ext_resource type="PackedScene" uid="uid://b84podp3r23bt" path="res://personaje.tscn" id="2_jt2x8"]
+[ext_resource type="PackedScene" uid="uid://chqd18ddcti3b" path="res://tuberias.tscn" id="3_gcnay"]
+[ext_resource type="Texture2D" uid="uid://dyddxdel10mb1" path="res://assets/img/costume2 (1).png" id="4_lfjuc"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(367, 322)
+texture = ExtResource("1_2ybvc")
+
+[node name="Personaje" parent="." instance=ExtResource("2_jt2x8")]
+position = Vector2(-180, 5)
+
+[node name="Tuberias" parent="." instance=ExtResource("3_gcnay")]
+position = Vector2(64, -41)
+scale = Vector2(0.996644, 1.33333)
+
+[node name="Costume2(1)" type="Sprite2D" parent="."]
+position = Vector2(303, 611)
+texture = ExtResource("4_lfjuc")

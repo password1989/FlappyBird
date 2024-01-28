@@ -1,3 +1,47 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706348407
+::res://::1706442676
 icon.svg::CompressedTexture2D::2233658020432463751::1706348403::1706348408::1::::<><>::
+README.md::TextFile::-1::1706348554::0::1::::<><>::
+personaje.tscn::PackedScene::4763455416660188621::1706442676::0::1::::<><>::res://personaje.gd<>uid://b5dqefuonjfps::::res://assets/img/63.png
+main.tscn::PackedScene::511104437173028187::1706442676::0::1::::<><>::uid://c20n4onc7dqo2::::res://assets/img/costume1.png<>uid://b84podp3r23bt::::res://personaje.tscn<>uid://chqd18ddcti3b::::res://tuberias.tscn<>uid://dyddxdel10mb1::::res://assets/img/costume2 (1).png
+personaje.gd::GDScript::-1::1706442675::0::1::::<>RigidBody2D<>::
+tuberias.tscn::PackedScene::5297423636581915825::1706442676::0::1::::<><>::uid://ge3eajg84fqa::::res://assets/img/tuberia.png
+::res://assets/::1706349457
+::res://assets/img/::1706435168
+5.png::CompressedTexture2D::3469669018404982206::1706349359::1706349790::1::::<><>::
+7.png::CompressedTexture2D::3466131896003035891::1706349365::1706349790::1::::<><>::
+22.png::CompressedTexture2D::1676518871465421295::1706349174::1706349790::1::::<><>::
+33.svg::CompressedTexture2D::1941238827266592853::1706349206::1706349790::1::::<><>::
+34.svg::CompressedTexture2D::4211596881311999339::1706349208::1706349790::1::::<><>::
+35.svg::CompressedTexture2D::9104344532413202302::1706349209::1706349790::1::::<><>::
+36.svg::CompressedTexture2D::1703339752803904433::1706349211::1706349790::1::::<><>::
+37.svg::CompressedTexture2D::2842652307143678894::1706349212::1706349790::1::::<><>::
+38.svg::CompressedTexture2D::3440310932529086448::1706349215::1706349790::1::::<><>::
+39.svg::CompressedTexture2D::4613467512540942956::1706349217::1706349790::1::::<><>::
+40.svg::CompressedTexture2D::7457156568535625898::1706349220::1706349790::1::::<><>::
+55.png::CompressedTexture2D::4131252064026066831::1706349105::1706349790::1::::<><>::
+59.png::CompressedTexture2D::310896358102156627::1706349106::1706349790::1::::<><>::
+63.png::CompressedTexture2D::4499258035322802300::1706349110::1706349790::1::::<><>::
+67.png::CompressedTexture2D::8123500983584652845::1706349111::1706349790::1::::<><>::
+70.png::CompressedTexture2D::2358985435562011955::1706349113::1706349790::1::::<><>::
+73.svg::CompressedTexture2D::1350005151687850954::1706349205::1706349790::1::::<><>::
+77.png::CompressedTexture2D::3533798178873838336::1706349097::1706349790::1::::<><>::
+78.png::CompressedTexture2D::5927553392469284742::1706349099::1706349790::1::::<><>::
+79.png::CompressedTexture2D::7553158509609195162::1706349101::1706349790::1::::<><>::
+80.png::CompressedTexture2D::6617119019794960352::1706349103::1706349790::1::::<><>::
+costume1 (1).png::CompressedTexture2D::5083913483106329506::1706349118::1706349790::1::::<><>::
+costume1 (1).svg::CompressedTexture2D::4088748193419071523::1706349225::1706349790::1::::<><>::
+costume1.png::CompressedTexture2D::6720391453936906831::1706348890::1706349790::1::::<><>::
+costume1.svg::CompressedTexture2D::457339595212517214::1706349203::1706349790::1::::<><>::
+costume2 (1).png::CompressedTexture2D::8850210820177170740::1706349121::1706349790::1::::<><>::
+costume2 (1).svg::CompressedTexture2D::854055975893049832::1706349226::1706349790::1::::<><>::
+costume2 (2).png::CompressedTexture2D::556570348903955714::1706349231::1706349790::1::::<><>::
+costume2.png::CompressedTexture2D::6452600212575590900::1706348894::1706349790::1::::<><>::
+costume2.svg::CompressedTexture2D::37316199096107263::1706349129::1706349790::1::::<><>::
+costume4.png::CompressedTexture2D::7344169600161052824::1706348896::1706349790::1::::<><>::
+FlappyBird_Thumbnail.png::CompressedTexture2D::8054293865874529092::1706349313::1706349790::1::::<><>::
+GAME OVER.png::CompressedTexture2D::7006495488814818033::1706349240::1706349790::1::::<><>::
+tuberia.png::CompressedTexture2D::431097806038611500::1706435165::1706435168::1::::<><>::
+::res://assets/sounds/::1706349450
+05vNS693_wavSoundEDIT.co.nz.wav::::-1::0::0::0::::<><>::
+Dubmood_and_Facteur_-_Traverse_de_RN85_Gameboy_edi.wav::::-1::0::0::0::::<><>::
