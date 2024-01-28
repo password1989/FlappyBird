@@ -1,3 +1,5 @@
-RigidBody2D
+AnimationPlayer
 CollisionShape2D
+CharacterBody2D
+RigidBody2D
 Area2D
